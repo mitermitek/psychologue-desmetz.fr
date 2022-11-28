@@ -5,7 +5,7 @@
 @endsection
 
 @section('content')
-    <div class="p-5 mb-4 bg-light rounded-3">
+    <div class="px-0 px-md-5 py-0 pb-md-5 mb-4 bg-light rounded-3">
         <div class="container-fluid py-5">
             <h1 class="display-5 fw-bold">Marie <span class="text-success">DESMETZ</span></h1>
             <p class="col-md-8 fs-4">
@@ -15,7 +15,7 @@
         </div>
 
         <div class="row row-cols-1 row-cols-lg-2 align-items-md-stretch">
-            <div class="col mb-4 mb-lg-0">
+            <div class="col mb-0 mb-md-4 mb-lg-0">
                 <div class="h-100 p-5 text-bg-success rounded-3">
                     <h2>Un peu d'histoire</h2>
                     <p class="text-justify">
