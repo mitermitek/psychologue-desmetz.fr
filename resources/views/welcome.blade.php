@@ -42,7 +42,9 @@
                         A savoir que certaines mutuelles remboursent les consultations auprès de
                         Psychologue.
                     </p>
-                    <button class="btn btn-outline-secondary" type="button">Voir toutes les prestations</button>
+                    <a href="{{ route('pricing') }}">
+                        <button class="btn btn-outline-secondary" type="button">Voir toutes les prestations</button>
+                    </a>
                 </div>
             </div>
         </div>
